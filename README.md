@@ -1,8 +1,10 @@
-# Projects
-Here is a list of projects I have done during my second year in college.
+# Lossless Compression Techniques
+## RLE (Run - Length - Encoding)
 
-## 1. Wordle Solver
-## 2. MineSweeper Clone
-## 3. Lossless Compression Techniques
-## 4. Advancded Compression Techniques
-## 5. Air Quality Index ML Model
+RLE or Run-Length Encoding is a simple and efficient compression technique that compresses sequences of repeated data by representing them as a single value (letter/bit) followed by the number of repetitions.
+
+For example,
+(`AAAAAABBBBBAAAAA`) -> (`A6B5A5`) or (`11110000011111`) -> (`140514`)
+
+
+## Huffman Tree
