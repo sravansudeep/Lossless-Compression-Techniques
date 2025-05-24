@@ -1,5 +1,5 @@
 # Projects
-This is a list of Projects I have done during my 2nd Year in College.
+Here is a list of projects I have done during my second year in college.
 
 ## 1. Wordle Solver
 ## 2. MineSweeper Clone
